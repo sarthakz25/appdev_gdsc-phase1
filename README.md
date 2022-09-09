@@ -3,7 +3,9 @@
 Task is to create the UX Flow Diagram for an app for my college campus.
 ```
 
+```
 In this have designed the user interface of a college app with 16 pages.
+```
 
 Pg1 (Login) - Here the user will have to enter sap id and password if his/her account already exists and if the username and password matches the user will be logged into the app.
 
