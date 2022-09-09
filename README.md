@@ -3,23 +3,43 @@
 Task is to create UX Flow Diagram of an app for my college campus.
 ```
 
-So, for this I have designed and created a Main UX Flow Diagram with the Flow Diagrams of 16 different pages in it, of an app for my college campus.
+So, for this I have designed and created a Main UX Flow Diagram with Flow Diagrams of 16 different pages in it, of an app for my college campus.
 
 ```
-Page - 1 LOGIN 
+Page-1 LOGIN 
 ```
 
 Here the user will have to enter sap id and password if his/her account already exists and if the username and password matches the user will be logged into the app.
 
-Pg2 (Signup) - If the user doesn't have an account he will be redirected to this page in which the user has to enter his/her sap id, email id, new password which should match the criteria and reenter the password which should match to the new password if all conditions are true then the user successfully logs into the app or else user will be asked to repeat a step again.
+```
+Page-2 SIGNUP
+```
+
+If the user doesn't have an account he will be redirected to this page in which the user has to enter his/her sap id, email id, new password which should match the criteria and reenter the password which should match to the new password if all conditions are true then the user successfully logs into the app or else user will be asked to repeat a step again.
+
+```
+NOTE:
+```
 
 Also i forgot to mention if the user doesnt remember his/her password he/she will get a forgot password option on the login/signin page which will allow them to reset the password.
 
-Pg3 (Home) - This is most important page of this app because from login/signup the user will come here. This page contains 7 buttons dashboard, news/updates, about, admission, support, profile, signout. Clicking or pressing these buttons will take the user to indivisual pages for each button except sign out which will take the user back to login page asking he/she to login again into the app.
+```
+Page-3 HOME
+```
 
-Pg4 (Menu) - This is another important page of this app because this provides the user with 4 butttons - assignments, marks(ICA), study resources(ebooks) and support. Like earlier these buttons will also take the user to the indivisual button pages.
+This is most important page of this app because from login/signup the user will come here. This page contains 7 buttons dashboard, news/updates, about, admission, support, profile, signout. Clicking or pressing these buttons will take the user to indivisual pages for each button except sign out which will take the user back to login page asking he/she to login again into the app.
 
-Pg5 (Dashboard) - This is once again an important page of this app but not as important as the early two because this page has 2 buttons while other two had more buttons than this. Those 2 buttons are - Attendance and News and updates.
+```
+Page-4 MENU
+```
+
+This is another important page of this app because this provides the user with 4 butttons - assignments, marks(ICA), study resources(ebooks) and support. Like earlier these buttons will also take the user to the indivisual button pages.
+
+```
+Page-5 DASHBOARD 
+```
+
+This is once again an important page of this app but not as important as the early two because this page has 2 buttons while other two had more buttons than this. Those 2 buttons are - Attendance and News and updates.
 
 Pg6 (Support) - This is the support page of the app where user gets two buttons - mail or call. Clicking on these 2 buttons gives user 2 mails and numbers respectiverly so as to contact the support.
 
