@@ -41,9 +41,17 @@ Page-5 DASHBOARD
 
 This is once again an important page of this app but not as important as the early two because this page has 2 buttons while other two had more buttons than this. Those 2 buttons are - Attendance and News and updates.
 
-Pg6 (Support) - This is the support page of the app where user gets two buttons - mail or call. Clicking on these 2 buttons gives user 2 mails and numbers respectiverly so as to contact the support.
+```
+Page-6 SUPPORT
+```
 
-Pg7 (About) - This page shows info about the college. There's also a navigate button at the bottom which will take the user to the location page.
+This is the support page of the app where user gets two buttons - mail or call. Clicking on these 2 buttons gives user 2 mails and numbers respectiverly so as to contact the support.
+
+```
+Page-7 ABOUT
+```
+
+This page shows info about the college. There's also a navigate button at the bottom which will take the user to the location page.
 
 Pg8 (Location) - This page shows an image of where the college is which its nearby localities. Then theres a address mentioned of the college and a navigate button which will take the user to the maps app according to the mentioned address and which would further help him/her navigate to the college.
 
@@ -59,7 +67,10 @@ Pg13 (Attendance) - This is the page where users or students can see their atten
 
 Pg14 (Profile) - This is the user profile page i.e. the page where user can view and update his/her profile. It has 3 buttons - Change profile photo, change contact number and update. In change profile photo the user gets 2 options- one in which the user can take a photo and the other in which the user can select an exsisting photo. These options take user to camera app and file manager app respectively from where the user gets an button to update their photo. Then theres update phone number in which the user can type his/her new phone number and on entering that they get a update button to update their phone number.
 
-Pg 15 (Admission) - This is the page from which the user can submit an appliction to take admission in the college. There are 2 dropdowns in this page - Select Course which displays the courses offered by the college for example B. Tech Integrated, B. Tech, MBA. Tech, etc. Then after selecting that theres another dropdown of Type which shows the type of streams in that field for eg. comps, data science, ai, etc. Last but not the least theres a sumbit button which submits the application and displays a message to the user.
+Page-15 Admission) - This is the page from which the user can submit an appliction to take admission in the college. There are 2 dropdowns in this page - Select Course which displays the courses offered by the college for example B. Tech Integrated, B. Tech, MBA. Tech, etc. Then after selecting that theres another dropdown of Type which shows the type of streams in that field for eg. comps, data science, ai, etc. Last but not the least theres a sumbit button which submits the application and displays a message to the user.
 
+```
 NOTE:
+```
+
 I had planned to make an UX FLOW CHART for the admin app which whould do control tasks such as uploading assigments, marking attendance, posting news/updates, etc. too but due to time constraints i couldn't do so :(
