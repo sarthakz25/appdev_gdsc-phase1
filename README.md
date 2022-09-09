@@ -4,7 +4,7 @@ Task is to create UX Flow Diagram of an app for my college campus.
 ```
 
 ```
-So, for this app I havee designed a main UX Flow Diagram with the Flow Diagrams of 16 different pages for a college app.
+So, for this I have designed and created a Main UX Flow Diagram with the Flow Diagrams of 16 different pages in it, of an app for my college campus.
 ```
 
 Pg1 (Login) - Here the user will have to enter sap id and password if his/her account already exists and if the username and password matches the user will be logged into the app.
