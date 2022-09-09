@@ -36,4 +36,4 @@ Pg14 (Profile) - This is the user profile page i.e. the page where user can view
 Pg 15 (Admission) - This is the page from which the user can submit an appliction to take admission in the college. There are 2 dropdowns in this page - Select Course which displays the courses offered by the college for example B. Tech Integrated, B. Tech, MBA. Tech, etc. Then after selecting that theres another dropdown of Type which shows the type of streams in that field for eg. comps, data science, ai, etc. Last but not the least theres a sumbit button which submits the application and displays a message to the user.
 
 NOTE:
-I had planned to make an UX FLOW CHART for admin app which whould do tasks like uploading assigments, marking attendance,  too but due to time constraints i couldn't.
+I had planned to make an UX FLOW CHART for the admin app which whould do control tasks such as uploading assigments, marking attendance, posting news/updates, etc. too but due to time constraints i couldn't do so :(
