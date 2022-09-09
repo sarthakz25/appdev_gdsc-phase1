@@ -1,17 +1,23 @@
 # appdev_gdsc-phase1
 ```
-Task is to create the UX Flow Diagram for an app for my college campus.
+Task is to create UX Flow Diagram of an app for my college campus.
 ```
 
 ```
 In this have designed the user interface of a college app with 16 pages.
 ```
 
+```
 Pg1 (Login) - Here the user will have to enter sap id and password if his/her account already exists and if the username and password matches the user will be logged into the app.
+```
 
+```
 Pg2 (Signup) - If the user doesn't have an account he will be redirected to this page in which the user has to enter his/her sap id, email id, new password which should match the criteria and reenter the password which should match to the new password if all conditions are true then the user successfully logs into the app or else user will be asked to repeat a step again.
+```
 
+```
 Also i forgot to mention if the user doesnt remember his/her password he/she will get a forgot password option on the login/signin page which will allow them to reset the password.
+```
 
 Pg3 (Home) - This is most important page of this app because from login/signup the user will come here. This page contains 7 buttons dashboard, news/updates, about, admission, support, profile, signout. Clicking or pressing these buttons will take the user to indivisual pages for each button except sign out which will take the user back to login page asking he/she to login again into the app.
 
