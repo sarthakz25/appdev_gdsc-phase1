@@ -1,5 +1,7 @@
 # appdev_gdsc-phase1
+```
 Task is to create the UX Flow Diagram for an app for my college campus.
+```
 
 In this have designed the user interface of a college app with 16 pages.
 
